@@ -1,0 +1,1 @@
+代码里面连接的服务器不是musql是localhost记得更改。
